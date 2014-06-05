@@ -1,0 +1,1 @@
+<div><?php _print_clips_homepage($results, $results); ?></div>
